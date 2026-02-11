@@ -87,7 +87,7 @@ irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/inst
 
 <details>
 <summary><b>⭐ Manual Reset Machine | 手動運行重置機器</b></summary>
-
+cc
 **Linux/macOS**
 
 ```bash
